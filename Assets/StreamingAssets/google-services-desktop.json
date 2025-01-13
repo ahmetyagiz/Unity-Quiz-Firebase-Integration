@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "939422979683",
+    "firebase_url": "https://db-quiz-9c867-default-rtdb.firebaseio.com",
+    "project_id": "db-quiz-9c867",
+    "storage_bucket": "db-quiz-9c867.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939422979683:android:2c9b4b14b7d68a23974a56",
+        "android_client_info": {
+          "package_name": "com.ahmetyagiz.DBQuiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuiMnP5DLvAD7d6B0HHu8jZ1HzPJ1dIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
