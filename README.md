@@ -7,4 +7,8 @@
 - Firebase
 - Open Trivia Database API
 
+## Versions
+- Unity 2021.3.43f1
+- Firebase Unity SDK 12.5.0
+
 Don't forget to add your **google-services.json** file!
